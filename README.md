@@ -1,9 +1,11 @@
-<img src="imagem-esquerda.png" width="100" align="left">
 <img src="Header_gif.gif" width="700">
 
 ## Hi there, I'm Raphael Nakamura! 👋
 
-<h4>Mechatronics Engineer with a postgraduate degree in Data Science and Artificial Intelligence. Junior Python Developer at Arcadis. Currently working on projects focused on automation and performance optimization of Python-based tools, ETL data processes, and supported by a broad and versatile technology stack.</h4>
+<img src="logo.png" width="60" align="left">
+Mechatronics Engineer with a postgraduate degree in Data Science and Artificial Intelligence. Junior Python Developer at Arcadis. Currently working on projects focused on automation and performance optimization of Python-based tools, ETL data processes, and supported by a broad and versatile technology stack.
+
+---
 
 ## **Technologies & Tools**
 
