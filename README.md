@@ -1,3 +1,5 @@
+<img src="Header_gif.gif" alt="Descrição do gif">
+
 ## Hi there 👋
 
 <!--
