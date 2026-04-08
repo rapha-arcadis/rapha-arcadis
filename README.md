@@ -1,4 +1,4 @@
-<img src="Header_gif.gif" alt="Descrição do gif">
+<img src="meu-gif.gif" alt="Descrição do gif" width="300">
 
 ## Hi there 👋
 
